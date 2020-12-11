@@ -59,4 +59,8 @@
 		margin-bottom: 10px;
 		color: #ccc;
 	}
+
+	.hidde {
+		display: none
+	}
 </style>

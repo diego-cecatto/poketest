@@ -1,21 +1,21 @@
 # Poketest
-
-## Project setup
+Listagem das gerações de games do Pokémon e seus respectivos detalhes
+## Configfuração do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodando o projeto em modo de desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minimifica para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints and fixes
 ```
 npm run lint
 ```
